@@ -2,6 +2,25 @@
 ## Session 1
 ### Why use python in Geomorphology?
 1. Geocomputation is the application of a computational paradigm to geographical problems ([[Openshaw2014]]).
+2. An important part of Geocomputation is computational thinking.
+3. Computational thinking involves the following ([[Beecher2017]]):
+	1. Picking out the essentials of a problem
+	2. Formulate a problem in such a way that a computer can understand it
+	3. Follow a problem solving process in a way that the process can be automated.
+4. Some of the core concepts in computational thinking are ([[Beecher2017]]):
+	1. Logical thinking
+		1. Very useful in FOR loops
+	2. Algorithmic thinking
+		1. Specifying a multi-task as a collection of individual sequential steps.
+	3. Decomposition
+		1. Breaking a complex problem into smaller parts that can be understood and solved individually.
+	4. Evaluation
+		1. Determining if the solution solves the problem in an efficient and effective manner.
+
+### Why use Python?
+1. Python is a high-level (human readable) programming language ([[McGrath2018]])
+2. Python is portable and can run on a wide range of hardware and different OS ([[McGrath2018]]).
+3. Python is an interpreted language ([[McGrath2018]], [[Trauth2022]]).
 
 ### Creating and using virtual environments.
 #### What are virtual environments
@@ -45,6 +64,8 @@ conda deactivate
 1. Search online for the command to install a package.
 2. For example, to install the pandas library, the following command needs to be entered into the terminal: `conda install anaconda::pandas`. You will then be provided with a series of prompts after which the package will be installed.
 
+---
+## Session 2
 ### The Python IDLE
 1. Although there are many IDEs (Integrated Development Environments) available for python, we will be using the IDLE which comes with Python.
 2. To open the IDLE, the following command needs to be typed inside the terminal: `python -m idlelib`. 
@@ -268,38 +289,33 @@ Ten is an even number and is larger than five
 ```
 ---
 #### Loops
-
-
+1. Loops in python allows the same code to be executed any number of times without the user having to do so manually.
+2. There are two types of loops: `for` loops and `while` loops. Just like the conditional statements, the loops will execute all of the code as long as the provided condition evaluates to `True`. If the condition evaluates to `False` then the loop will end.
 ---
-## Session 2
+**Example**
+```
+a = 0
+while a <= 5:
+	print("Hello")
+	a = a + 1
 
-### Introduction to data structures: lists, tuples, dictionaries
-#### Lists
+Hello
+Hello
+Hello
+Hello
+Hello
+Hello
+```
 
-#### Tuples
+```
+for i in range(6):
+	print("Hello")
 
-#### Dictionaries
-
+Hello
+Hello
+Hello
+Hello
+Hello
+Hello
+```
 ---
-### Working with files: reading and writing data
-#### Reading data
-
-
-#### Writing data
-
----
-### Introduction to libraries: NumPy, Pandas, SciPy, Matplotlib
-#### NumPy
-
-
-#### Pandas
-
-
-#### SciPy
-
-
-
-#### Matplotlib
-
----
-### Assignment 1

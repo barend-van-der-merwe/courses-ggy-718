@@ -3,7 +3,14 @@
 - **Morning Session (2 hours):**
     - Administration
     - Why use python in Geomorphology?
+    - Why use python?
+    - Creating virtual environments.
+    - Installing packages inside virtual environments.
 - **Afternoon Session (2 hours):**
+	- The python IDLE.
+    - Introduction to programming concepts: variables, data types, operators, expressions.
+    - Basic syntax: control flow (elif statements, loops), functions (simple examples).
+	- Introduction to data structures: lists, tuples, dictionaries.
 **Day 2: Data Analysis with pandas (2 Sessions)**
 - **Morning Session (2 hours):**
 - **Afternoon Session (2 hours):**
