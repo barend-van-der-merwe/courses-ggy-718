@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "a92af9bcb8c306e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d720d7146bb804dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68cc9f9ce38c980b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 1 - Introduction to Python Programming (2 Sessions).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5aac158cc1dbf5f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a0ab311684a642",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea00517f0a67138",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97e730b13581c3eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32d0603bd9717523",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b0334844690967b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5d2924b41673d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ffee2a026fb385",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day 1 - Introduction to Python Programming (2 Sessions).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "191b6a187061dd42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day 1 - Introduction to Python Programming (2 Sessions).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9c1448547e8a63c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "445087a6fd5cf9dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day 1 - Introduction to Python Programming (2 Sessions).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68cc9f9ce38c980b",
+  "lastOpenFiles": [
+    "references/Openshaw2014.md",
+    "Day 1 - Introduction to Python Programming (2 Sessions).md",
+    "Training Schedule.md",
+    "images/idle.png",
+    "images",
+    "references/Forouzan2014.md",
+    "day1.pdf",
+    "references/Matthes2023.md",
+    "references",
+    "references/Speight2020.md",
+    "desktop.ini",
+    "references/Vaughan2023.md",
+    "tex2pdf.-15077be705d87b54/input.pdf",
+    "tex2pdf.-15077be705d87b54/input.aux",
+    "tex2pdf.-15077be705d87b54/input.log",
+    "tex2pdf.-15077be705d87b54/input.tex",
+    "tex2pdf.-15077be705d87b54",
+    "Day 1 - Introduction to Python Programming.md",
+    "Welcome.md"
+  ]
+}
