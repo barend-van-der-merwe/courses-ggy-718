@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68cc9f9ce38c980b",
+            "id": "38bb6f917a9433df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 1 - Introduction to Python Programming (2 Sessions).md",
+                "file": "Training Schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training Schedule.md",
+                "file": "Day 1 - Introduction to Python Programming (2 Sessions).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68cc9f9ce38c980b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 2 - Data Structures and working with csv files in pandas (2 Sessions).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 1 - Introduction to Python Programming (2 Sessions).md",
+                "file": "Training Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 1 - Introduction to Python Programming (2 Sessions).md",
+                "file": "Training Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 1 - Introduction to Python Programming (2 Sessions).md"
+                "file": "Training Schedule.md"
               }
             }
           }
@@ -158,10 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68cc9f9ce38c980b",
+  "active": "38bb6f917a9433df",
   "lastOpenFiles": [
-    "Training Schedule.md",
     "Day 1 - Introduction to Python Programming (2 Sessions).md",
+    "Day 2 - Data Structures and working with csv files in pandas (2 Sessions).md",
+    "Training Schedule.md",
+    "references/Vasiliev2022.md",
+    "assignments",
+    "New folder",
     "references/Trauth2022.md",
     "references/McGrath2018.md",
     "references/Beecher2017.md",
@@ -179,7 +195,6 @@
     "tex2pdf.-15077be705d87b54/input.aux",
     "tex2pdf.-15077be705d87b54/input.log",
     "tex2pdf.-15077be705d87b54/input.tex",
-    "tex2pdf.-15077be705d87b54",
     "Day 1 - Introduction to Python Programming.md",
     "Welcome.md"
   ]
