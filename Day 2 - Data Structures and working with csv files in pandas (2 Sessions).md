@@ -321,7 +321,8 @@ memory usage: 480.5+ KB
 1. Before we start an analysis, it may be beneficial to either extract data from the DataFrame or to subset the entire DataFrame based on some criteria.
 2. For example, we can use the `unique()` method to get the unique entries (i.e. removing all the duplicate entries) of a column within our DataFrame.
 3. We can use the `.loc()` method to extract a complete row of our DataFrame.
-4. If we want to extract rows that meet a certain criteria, then we can use a combination of index calls to do so.
+4. We can extract selected rows by using the index method and specifying the columns as a list.
+5. If we want to extract rows that meet a certain criteria, then we can use a combination of index calls to do so.
 ---
 **Example**
 ```
@@ -359,6 +360,16 @@ Name: 1234, dtype: object
 
 # extract all of the rows were the temperature observation is greater than 9.3
 >>> temp_greater_9_3 = weather_data[weather_data['temp']>9.3]
+
+# create a new dataframe that contains only humidity and visibility data
+>>> hum_and_vis = weather_data[["hum", "vis"]]
+>>> hum_and_vis.head()
+   hum  vis
+0   86  8.0
+1   87  8.0
+2   89  4.0
+3   88  4.0
+4   88  4.8
 
 # display the first four rows
 >>> temp_greater_9_3.head()
