@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38bb6f917a9433df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training Schedule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9804589200163687",
             "type": "leaf",
             "state": {
@@ -42,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38bb6f917a9433df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 3 - Exploratory data analysis and hypothesis  (2 Sessions).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training Schedule.md",
+                "file": "Day 3 - Exploratory data analysis and hypothesis  (2 Sessions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training Schedule.md",
+                "file": "Day 3 - Exploratory data analysis and hypothesis  (2 Sessions).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training Schedule.md"
+                "file": "Day 3 - Exploratory data analysis and hypothesis  (2 Sessions).md"
               }
             }
           }
@@ -173,6 +174,16 @@
   "active": "38bb6f917a9433df",
   "lastOpenFiles": [
     "Day 1 - Introduction to Python Programming (2 Sessions).md",
+    "Day 3 - Exploratory data analysis and hypothesis  (2 Sessions).md",
+    "images/lineplot-example.png",
+    "images/scatterplot-example.png",
+    "Jaisingh2006.md",
+    "images/boxplot-example.png",
+    "images/histogram-example.png",
+    "references/D'Agostino2006.md",
+    "references/Rogerson2003.md",
+    "references/Ebdon1985.md",
+    "references/Oluleye2023.md",
     "Day 2 - Data Structures and working with csv files in pandas (2 Sessions).md",
     "Training Schedule.md",
     "references/Vasiliev2022.md",
