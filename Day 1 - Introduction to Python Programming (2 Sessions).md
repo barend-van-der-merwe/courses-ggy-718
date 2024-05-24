@@ -1,4 +1,4 @@
-[[Training Schedule]]
+[][[Training Schedule]]
 ## Session 1
 ### Why use python in Geomorphology?
 1. Geocomputation is the application of a computational paradigm to geographical problems ([[Openshaw2014]]).
