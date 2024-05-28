@@ -19,13 +19,13 @@
 	- Loading csv files
 	- Extracting data about the DataFrame
 	- Subsetting the DataFrame
-**[[Day 3 - Exploratory data analysis and hypothesis  (2 Sessions)]]**
+**[[Day 3 - Exploratory data analysis and hypothesis testing  (2 Sessions)]]**
 - **Morning Session (2 hours):**
 - **Afternoon Session (2 hours):**
-**Day 4: Introduction to GUI Development with tkinter (2 Sessions)**
+**Day 4:  **
 - **Morning Session (2 hours):**
 - **Afternoon Session (2 hours):**
-**Day 5: Advanced Python Skills (2 Sessions)**
+**Day 5: Introduction to GUI Development with tkinter (2 Sessions)**
 - **Morning Session (2 hours):**
 - **Afternoon Session (2 hours):**
 
